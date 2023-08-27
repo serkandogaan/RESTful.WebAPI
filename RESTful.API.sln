@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTful.API", "RESTful.API\RESTful.API.csproj", "{D85D4DA2-D70F-45CA-B451-18BB1D3BC272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTful.API.Entity", "RESTful.API.Entity\RESTful.API.Entity.csproj", "{F1F728FC-4657-4670-A6A0-F236CE2A9245}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTful.API.Repository", "RESTful.API.Repository\RESTful.API.Repository.csproj", "{0D5109DB-A7A0-4340-AA7D-288FB5F3F507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85D4DA2-D70F-45CA-B451-18BB1D3BC272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85D4DA2-D70F-45CA-B451-18BB1D3BC272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85D4DA2-D70F-45CA-B451-18BB1D3BC272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85D4DA2-D70F-45CA-B451-18BB1D3BC272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F728FC-4657-4670-A6A0-F236CE2A9245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F728FC-4657-4670-A6A0-F236CE2A9245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F728FC-4657-4670-A6A0-F236CE2A9245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F728FC-4657-4670-A6A0-F236CE2A9245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5109DB-A7A0-4340-AA7D-288FB5F3F507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5109DB-A7A0-4340-AA7D-288FB5F3F507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5109DB-A7A0-4340-AA7D-288FB5F3F507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5109DB-A7A0-4340-AA7D-288FB5F3F507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DFF6CF4-7D79-41BB-A978-E28042D0DAE3}
+	EndGlobalSection
+EndGlobal
